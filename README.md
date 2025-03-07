@@ -1,5 +1,5 @@
 # LAMA: LAnguage Model Analysis!!!!
-!!!
+!!!!
 <img align="middle" src="img/logo.png" height="256" alt="LAMA">!
 
 LAMA is a probe for analyzing the factual and commonsense knowledge contained in pretrained language models. <br>
