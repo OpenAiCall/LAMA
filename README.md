@@ -1,5 +1,5 @@
 # LAMA: LAnguage Model Analysis
-LAMA is a probe for analyzing the factual and commonsense knowledge contained in pretrained language models!!!!!!!!!!!!!
+LAMA is a probe for analyzing the factual and commonsense knowledge contained in pretrained language models!!!!!!!!!!!!!!
 
 #### The dataset for the LAMA probe is available at https://dl.fbaipublicfiles.com/LAMA/data.zip <br>
 LAMA contains a set of connectors to pretrained language models. <br>
